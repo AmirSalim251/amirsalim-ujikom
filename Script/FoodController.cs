@@ -19,7 +19,7 @@ public class FoodControllerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.velocity = new Vector3(0,0,20);
+        rb.velocity = new Vector3(0,0,-20);
        
         
     }
