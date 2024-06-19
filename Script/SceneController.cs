@@ -21,5 +21,6 @@ public class SceneController : MonoBehaviour
 
     public void exitGame(){
         Application.Quit();
+        
     }
 }
